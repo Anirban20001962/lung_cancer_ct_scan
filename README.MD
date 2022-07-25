@@ -1,7 +1,7 @@
 # Lung Cancer Detection and Tumor Percentage Estimation
 
 ## Technology Used
-After the data processing and model selection, the next step is to choose a tech stack to work on the data and do image classification.We used  Python, Google’s Tensorflow, Pandas, and Sklearn. Python is our choice because it has a pretty great library base and community, especially in the Machine Learning/Deep Learning field. Our model is trained on Google’s Colaboratory platform.
+The step is to choose a tech stack to work on the data and do image classification. We used  Python, Google’s Tensorflow, Pandas, and Sklearn. Python is our choice because it has a pretty great library base and community, especially in the Machine Learning/Deep Learning field. Our model is trained on Google’s Colaboratory platform.
 
 ## The Data
 
