@@ -7,7 +7,7 @@ After the data processing and model selection, the next step is to choose a tech
 
 Data is obtained from the following source. The dataset contains 1190 images representing CT scan slices of 110 cases (see Figure 1). These cases are grouped into three classes: normal, benign, and malignant. of these, 40 cases are diagnosed as malignant; 15 cases are diagnosed as benign, and 55 cases are classified as normal. The CT scans were originally collected in DICOM format. The scanner used is SOMATOM from Siemens. CT protocol includes: 120 kV, slice thickness of 1 mm, with window width ranging from 350 to 1200 HU, and window center from 50 to 600 were used for reading. with breath-hold at full inspiration. Each image in the dataset is resized to a size of  224*224 pixels with a batch size of 32 images to maintain uniformity. This is the critical step to maintain consistency and faster data processing. 
 
-==**Here is the soruce of dataset**== [The IQ-OTHNCCD lung cancer dataset](https://data.mendeley.com/datasets/bhmdr45bh2/1/)
+**Here is the soruce of dataset** [The IQ-OTHNCCD lung cancer dataset](https://data.mendeley.com/datasets/bhmdr45bh2/1/)
 
 ## Model Selection
 
